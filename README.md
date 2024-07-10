@@ -69,7 +69,7 @@ python robot/navigation.py
 
 ```
 
-5. Docker Setup
+## Docker Setup
 - Build the Docker image:
 ```bash
 docker build -t robot-navigation .
