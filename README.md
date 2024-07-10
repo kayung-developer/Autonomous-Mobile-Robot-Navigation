@@ -40,7 +40,8 @@ This project demonstrates an advanced autonomous mobile robot navigation program
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/robot-navigation.git
+   git clone https://github.com/kayung-developer/Autonomous-Mobile-Robot-Navigation.git
+   
    cd robot-navigation
 2.  Create and activate a virtual environment:
 
