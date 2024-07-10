@@ -1,6 +1,6 @@
-# Advanced Python Autonomous Mobile Robot Navigation Program
+# Autonomous Mobile Robot Navigation
 
-This project demonstrates an advanced autonomous mobile robot navigation program using CustomTkinter for the GUI, incorporating machine learning (ML) and computer vision (CV) for a sophisticated navigation system.
+An advanced autonomous mobile robot navigation program using CustomTkinter for the GUI, incorporating machine learning (ML) and computer vision (CV) for a sophisticated navigation system.
 
 ## Table of Contents
 
