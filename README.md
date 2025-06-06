@@ -2,8 +2,10 @@
 
 This project is a comprehensive, self-contained simulator for an autonomous mobile robot. It features a FastAPI backend for the simulation logic and a CustomTkinter GUI for real-time visualization and interactive control. The entire application runs from a single Python script, with the backend and frontend communicating seamlessly via a REST API and WebSockets.
 
+![screenshot2](https://github.com/user-attachments/assets/b52c513c-72ea-45da-a115-cca2f1ad7293)
+![Screenshoot](https://github.com/user-attachments/assets/7d527847-683b-475d-aa29-654d16bbe611)
 
-*(Image shows the main GUI with the map, robot poses, sensor data, and control panels)*
+
 
 ## Key Features
 
