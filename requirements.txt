@@ -1,0 +1,8 @@
+# requirements.txt
+fastapi
+uvicorn
+numpy
+requests
+websockets
+customtkinter
+pydantic
