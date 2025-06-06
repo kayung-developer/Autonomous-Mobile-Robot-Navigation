@@ -1,6 +1,0 @@
-numpy
-opencv-python
-tensorflow
-scikit-learn
-matplotlib
-customtkinter
