@@ -76,7 +76,7 @@ Follow these steps to get the simulator running on your local machine.
 
 1.  **Clone the repository:**
     ```bash
-    git clone <https://github.com/kayung-developer/Intellibot-Mobile-Robot-Navigation.git>
+    git clone https://github.com/kayung-developer/Intellibot-Mobile-Robot-Navigation.git
     cd robot-navigation
     ```
 
